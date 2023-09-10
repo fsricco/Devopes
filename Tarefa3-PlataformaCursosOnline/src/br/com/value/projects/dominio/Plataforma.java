@@ -59,3 +59,4 @@ public class Plataforma {
         return 0.0;
     }
 }
+
