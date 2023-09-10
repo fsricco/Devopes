@@ -58,5 +58,4 @@ public class Plataforma {
         System.out.println("Trilha '" + nomeTrilha + "' NAO encontrada.");
         return 0.0;
     }
-    
 }
